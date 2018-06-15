@@ -1,0 +1,41 @@
+.minirte__editor {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  max-height: 400px;
+  overflow-y: scroll;
+}
+.minirte__editor:focus {
+  outline: none;
+}
+.minirte__editor p {
+  margin: 0;
+}
+.minirte__code {
+    display: none;
+}
+.minirte__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  border: 1px solid #E4E4E4;
+  border-bottom: 0;
+  background: #F2F2F2;
+  border-radius: 3px 3px 0 0;
+  overflow: hidden;
+}
+.minirte__buttons a {
+    display: block;
+    line-height: 28px;
+    width: 28px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.4s ease;
+    text-decoration: none;
+    color: #c6c6c6;
+    font-size: 12px;
+}
+.minirte__buttons a:hover {
+  background: #09978F;
+  color: #fff !important;
+}
