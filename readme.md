@@ -1,5 +1,5 @@
 # miniRTE
-Mini Rich-Text-Editor TV input type. The Extra lets you easily format text in an text input field to create HTML formatted output. All Buttons can be configured by an JSON.
+Mini Rich-Text-Editor TV input type. The Extra lets you easily format text in a text input field to create HTML formatted output. All Buttons can be configured by a JSON.
 
 
 # Usage 
@@ -25,7 +25,7 @@ For every button you can define:
 
 | key | description |
 | --- | --- |
-| command | You can find a list of possible Commands under: |
+| command | You can find a list of possible Commands here: [Commands-List](https://developer.mozilla.org/en-US/docs/Web/API/Document/execCommand) |
 | icon | classname of a font-awesome icon. Example: bold |
-| value | Optional value for commands that require an input like a font-size or a color. Example: FFFFFF |
+| value | Optional value for commands that require input values - like a font-size or a color. Example: FFFFFF |
 | style | Optional CSS styles to restyle the button. You may want to give a button the color of the font-color. Example: FCFCFC |
