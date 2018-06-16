@@ -21,6 +21,7 @@ The Input-Option "Enable Linebreaks" turns the TV from a regular textfield into 
 ```
 
 For every button you can define:
+
 | key | description |
 | --- | --- |
 | command | You can find a list of possible Commands under: |
