@@ -7,6 +7,7 @@ Create an tv with the type minirte and configure your Buttons in the Configurati
 The Input-Option "Enable Linebreaks" turns the TV from a regular textfield into a textarea. The inputarea will automatically grow with the input.
 
 ## Button Configuration
+Default Buttons:
 ```
 [
 {"command":"undo","icon":"undo"},
