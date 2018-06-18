@@ -29,3 +29,10 @@ For every button you can define:
 | icon | classname of a font-awesome icon. Example: bold |
 | value | Optional value for commands that require input values - like a font-size or a color. Example: FFFFFF |
 | style | Optional CSS styles to restyle the button. You may want to give a button the color of the font-color. Example: FCFCFC |
+
+## Screenshot
+- singleline text input with edfault buttons
+- multiline textarea with default buttons
+- singleline text input with only one button for highlighting
+
+![miniRTE tv example](https://image.ibb.co/bsCbcy/extras_5b2699fbbc8dd377588b4567_minirte_02.jpg)
